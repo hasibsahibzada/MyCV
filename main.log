@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2018.1.13)  13 JAN 2018 21:13
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2018.1.13)  13 JAN 2018 22:05
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -974,26 +974,34 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 (/usr/local/texlive/2017basic/texmf-dist/tex/latex/microtype/mt-mvs.cfg
 File: mt-mvs.cfg 2006/07/05 v1.1 microtype config. file: Marvosym Euro (RS)
 )
-Missing character: There is no Í in font cmr12!
 \makecvtitlepicturebox=\box46
 
-<picture.png, id=51, 84.315pt x 98.3675pt>
-File: picture.png Graphic file (type png)
- <use picture.png>
-Package pdftex.def Info: picture.png used on input line 54.
-(pdftex.def)             Requested size: 64.0pt x 74.66849pt.
+<picture.jpg, id=42, 224.84pt x 226.8475pt>
+File: picture.jpg Graphic file (type jpg)
+ <use picture.jpg>
+Package pdftex.def Info: picture.jpg used on input line 54.
+(pdftex.def)             Requested size: 64.0pt x 64.56912pt.
 \makecvtitledetailswidth=\skip79
 \makecvtitlepicturewidth=\skip80
+
+Underfull \hbox (badness 10000) in paragraph at lines 54--54
+[][]\T1/lmss/m/n/34 Hasibulla
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 54--54
+
+ []
+
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10.95> on input line 54.
+(Font)              <10.95> on input line 57.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 54.
+(Font)              <8> on input line 57.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 54.
+(Font)              <6> on input line 57.
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <10.95> not available
 (Font)              Font shape `T1/lmss/m/sl' tried instead on input line 57.
 LaTeX Font Info:    Try loading font information for OMS+lmr on input line 83.
-
 (/usr/local/texlive/2017basic/texmf-dist/tex/latex/lm/omslmr.fd
 File: omslmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
@@ -1002,42 +1010,34 @@ LaTeX Font Info:    Font shape `OMS/lmr/m/n' in size <10> not available
  [1
 
 {/usr/local/texlive/2017basic/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./
-picture.png>]
-
-LaTeX Warning: Citation `book1' on page 2 undefined on input line 110.
-
-
-Overfull \hbox (286.59792pt too wide) in paragraph at lines 118--118
+picture.jpg>]
+Overfull \hbox (286.59792pt too wide) in paragraph at lines 108--108
 [][][]| 
  []
 
 No file main.bbl.
 [2]
-Missing character: There is no Í in font cmr12!
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 159.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 149.
  [3
 
 ]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 159.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 149.
  (./main.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 159.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 159.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 149.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 149.
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 28811090CB3F7C92F13E397F5EF073EF;1069.
+(rerunfilecheck)             Checksum: 8C1DFAFEB7E59BEBA37AAC215AB548C8;855.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-
-LaTeX Warning: There were undefined references.
-
  ) 
 Here is how much of TeX's memory you used:
- 19414 strings out of 494437
- 326482 string characters out of 6166645
- 413451 words of memory out of 5000000
- 22521 multiletter control sequences out of 15000+600000
- 83658 words of font info for 81 fonts, out of 8000000 for 9000
+ 19391 strings out of 494437
+ 326119 string characters out of 6166645
+ 411571 words of memory out of 5000000
+ 22507 multiletter control sequences out of 15000+600000
+ 77339 words of font info for 75 fonts, out of 8000000 for 9000
  319 hyphenation exceptions out of 8191
  39i,18n,45p,10356b,480s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2017basic/texmf-dist/fonts/enc/dvips/lm/lm-mathex.enc}{/u
@@ -1055,14 +1055,13 @@ ic/lm/lmss10.pfb></usr/local/texlive/2017basic/texmf-dist/fonts/type1/public/lm
 /lmss12.pfb></usr/local/texlive/2017basic/texmf-dist/fonts/type1/public/lm/lmss
 17.pfb></usr/local/texlive/2017basic/texmf-dist/fonts/type1/public/lm/lmssbx10.
 pfb></usr/local/texlive/2017basic/texmf-dist/fonts/type1/public/lm/lmsso10.pfb>
-</usr/local/texlive/2017basic/texmf-dist/fonts/type1/public/lm/lmsso12.pfb></us
-r/local/texlive/2017basic/texmf-dist/fonts/type1/public/lm/lmsso17.pfb></usr/lo
-cal/texlive/2017basic/texmf-dist/fonts/type1/public/lm/lmsy10.pfb></usr/local/t
-exlive/2017basic/texmf-dist/fonts/type1/public/lm/lmsy8.pfb>
-Output written on main.pdf (3 pages, 239417 bytes).
+</usr/local/texlive/2017basic/texmf-dist/fonts/type1/public/lm/lmsso17.pfb></us
+r/local/texlive/2017basic/texmf-dist/fonts/type1/public/lm/lmsy10.pfb></usr/loc
+al/texlive/2017basic/texmf-dist/fonts/type1/public/lm/lmsy8.pfb>
+Output written on main.pdf (3 pages, 590165 bytes).
 PDF statistics:
- 146 PDF objects out of 1000 (max. 8388607)
- 121 compressed objects within 2 object streams
- 15 named destinations out of 1000 (max. 500000)
- 27230 words of extra memory for PDF output out of 29859 (max. 10000000)
+ 132 PDF objects out of 1000 (max. 8388607)
+ 108 compressed objects within 2 object streams
+ 13 named destinations out of 1000 (max. 500000)
+ 24654 words of extra memory for PDF output out of 24883 (max. 10000000)
 
